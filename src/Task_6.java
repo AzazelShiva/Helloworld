@@ -23,6 +23,6 @@ public class Task_6 {
         int a = (int) average / 2;
         System.out.println("Деление среднего арифметического на 2 без остатка: " + a);
 
-        if(a > 3) System.out.println("Программа выполнена корректно");
+        if(a > 3) System.out.println("Программа выполнена корректно"); 
     }
 }
