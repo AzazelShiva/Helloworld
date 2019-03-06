@@ -5,4 +5,4 @@ public class Task_8 {
             System.out.print(i + "\n");
         }
     }
-}
+} 
