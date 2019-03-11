@@ -17,7 +17,7 @@ public class Task_10 {
             }
         }
         System.out.print ("Вывод первой строки матрицы, в котором каждый элемент умножен на 3: \n");
-        for (int j = 0; j < cols; j++) {
+        for (int j = 0; j < rows; j++) {
             System.out.print(array[0][j]*3 + " ");
         }
         System.out.println();
