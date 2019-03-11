@@ -22,4 +22,4 @@ public class Task_10 {
         }
         System.out.println();
     }
-}
+} 
